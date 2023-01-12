@@ -5,7 +5,7 @@ SwfWindow("PR Slip - Microsoft Dynamics_2").SwfObject("{DF1AA864-6D25-4f2a-8620-
 SwfWindow("PR Slip - Microsoft Dynamics").SwfObject("Tree").Click 83,123 @@ hightlight id_;_1442728_;_script infofile_;_ZIP::ssf412.xml_;_
 SwfWindow("PR Slip - Microsoft Dynamics").SwfObject("Tree").Click 93,145 @@ hightlight id_;_5048510_;_script infofile_;_ZIP::ssf396.xml_;_
 SwfWindow("PR Slip - Microsoft Dynamics").SwfLabel("PR Slip").Click 28,13 @@ hightlight id_;_4589000_;_script infofile_;_ZIP::ssf397.xml_;_
-SwfWindow("PR Slip - Microsoft Dynamics").SwfObject("{FB8CCCF3-54AC-4d77-9AD8-136CE").WpfWindow("WpfWindow").WpfButton("New").Click @@ hightlight id_;_1247416_;_script infofile_;_ZIP::ssf430.xml_;_
+SwfWindow("PR Slip - Microsoft Dynamics").SwfObject("{FB8CCCF3-54AC-4d77-9AD8-136CE").WpfWindow("WpfWindow").WpfButton("New").Click @@ hightlight id_;_1988810832_;_script infofile_;_ZIP::ssf279.xml_;_
 SwfWindow("New - PR Slip_2").SwfButton("{0000C42D-0000-0003-0008-00008").Click @@ hightlight id_;_4130006_;_script infofile_;_ZIP::ssf280.xml_;_
 SwfWindow("New - PR Slip_2").SwfWindow("No. Series List").SwfButton("OK").Click @@ hightlight id_;_1967366_;_script infofile_;_ZIP::ssf281.xml_;_
 

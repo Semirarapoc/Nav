@@ -1,0 +1,119 @@
+<?xml version="1.0"?>
+<Results version="1.0">
+<ReportNode type="testrun">
+<ReportNode type="Action">
+<ReportNode type="Step">
+<ReportNode type="Step">
+<Data>
+    <Name>Stop Run</Name>
+    <Description>Run stopped by user.</Description>
+    <StartTime>2023-01-09 11:00:48</StartTime>
+    <Result>Information</Result>
+    <Extension>
+      <IconKey>658cd820508a4d0da9c8b8a3219bde28</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<Data>
+    <Name>{0000C35B-0000-0019-0008-00008</Name>
+    <Description>Cannot&amp;nbsp;find&amp;nbsp;the&amp;nbsp;"{0000C35B-0000-0019-0008-00008"&amp;nbsp;object's&amp;nbsp;parent&amp;nbsp;"New&amp;nbsp;-&amp;nbsp;Req.&amp;nbsp;Header"&amp;nbsp;(class&amp;nbsp;SwfWindow).&lt;br/&gt;Verify&amp;nbsp;that&amp;nbsp;parent&amp;nbsp;properties&amp;nbsp;match&amp;nbsp;an&amp;nbsp;object&amp;nbsp;currently&amp;nbsp;displayed&amp;nbsp;in&amp;nbsp;your&amp;nbsp;application.&lt;br/&gt;&lt;br/&gt;Object's physical description:&lt;br&gt;swfname = {0000C35B-0000-0000-0108-0000836BD2D2}&lt;br&gt;regexpwndtitle = Req. Header&lt;br&gt;is owned window = 0&lt;br&gt;is child window = 0&lt;br&gt;</Description>
+    <StartTime>2023-01-09 11:00:48</StartTime>
+    <Duration>0</Duration>
+    <Result>Warning</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>SwfWindow</Type>
+            <Name><![CDATA[New - Req. Header]]></Name>
+          </Object>
+          <Object>
+            <Type>SwfEdit</Type>
+            <Name><![CDATA[{0000C35B-0000-0019-0008-00008]]></Name>
+          </Object>
+        </Path>
+        <OperationData><![CDATA[Cannot&nbsp;find&nbsp;the&nbsp;"{0000C35B-0000-0019-0008-00008"&nbsp;object's&nbsp;parent&nbsp;"New&nbsp;-&nbsp;Req.&nbsp;Header"&nbsp;(class&nbsp;SwfWindow).<br/>Verify&nbsp;that&nbsp;parent&nbsp;properties&nbsp;match&nbsp;an&nbsp;object&nbsp;currently&nbsp;displayed&nbsp;in&nbsp;your&nbsp;application.]]></OperationData>
+        <Properties>
+          <Property>
+            <Name><![CDATA[swftypename]]></Name>
+            <Value><![CDATA[Microsoft.Dynamics.Framework.UI.WinForms.Controls.EllipsisTextBox]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[swfname]]></Name>
+            <Value><![CDATA[{0000C35B-0000-0019-0008-0000836BD2D2}]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>4f98db22869f46b689382bcc1de20f0c</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+      <NodeType>Run Error</NodeType>
+    </Extension>
+    <DeviceInfo />
+  </Data>
+</ReportNode>
+<Data>
+    <Name>Action1</Name>
+    <Description />
+    <StartTime>2023-01-09 11:00:37</StartTime>
+    <Duration>11</Duration>
+    <Result>Warning</Result>
+    <InputParameters />
+    <Extension>
+      <IconKey>3d3c99d3e6ea41cfad3db1d55e9841c1</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="Step">
+<Data>
+    <Name>Stop Run</Name>
+    <Description>Run stopped by user.</Description>
+    <StartTime>2023-01-09 11:00:48</StartTime>
+    <Result>Information</Result>
+    <Extension>
+      <IconKey>2e7824a1e6cd4fc68476b8d709dd0a4f</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<Data>
+    <Name>EXCEL_SUCCESS_EXECUTION</Name>
+    <ToolName>Micro Focus UFT One</ToolName>
+    <ToolVersion>2021</ToolVersion>
+    <ToolVersionStringLiteral>2021</ToolVersionStringLiteral>
+    <Description />
+    <StartTime>2023-01-09 11:00:35</StartTime>
+    <Duration>13</Duration>
+    <Result>Warning</Result>
+    <InputParameters />
+    <Extension>
+      <IconKey>4338b1b6b3bf46ebba51f973b30b9db2</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Environment>
+      <Timezone>+08:00:00</Timezone>
+      <Locale>English (United States)</Locale>
+      <User>SMCDACON\ccdesphy</User>
+      <CpuInfo>Intel(R) Xeon(R) Gold 6248 CPU @ 2.50GHz</CpuInfo>
+      <NumberOfCores>8</NumberOfCores>
+      <TotalMemory>16384</TotalMemory>
+      <HostName>smcdacon.com\CHROMEL</HostName>
+      <OSInfo>Windows Server 2016 (x64)</OSInfo>
+    </Environment>
+    <TestedApplications />
+    <Links>
+      <Link type="DataTable" reference="Default.xlsx" displayname="Default Data Table" />
+    </Links>
+  </Data>
+</ReportNode>
+<GeneralInfo>
+    <ResultName>Res7</ResultName>
+    <RunStartTime>2023-01-09 11:00:35</RunStartTime>
+    <Timezone>+08:00:00</Timezone>
+    <OrchestrationToolName>Micro Focus UFT One</OrchestrationToolName>
+    <OrchestrationToolVersion>2021</OrchestrationToolVersion>
+    <OrchestrationToolVersionStringLiteral>2021</OrchestrationToolVersionStringLiteral>
+  </GeneralInfo>
+</Results>

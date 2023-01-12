@@ -1,0 +1,1105 @@
+<?xml version="1.0"?>
+<Results version="1.0">
+<ReportNode type="testrun">
+<ReportNode type="Action">
+<ReportNode type="Context">
+<ReportNode type="Step">
+<Data>
+    <Name>{DF1AA864-6D25-4f2a-8620-C078B.Click</Name>
+    <Description />
+    <StartTime>2023-01-10 15:48:59</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>SwfWindow</Type>
+            <Name><![CDATA[PR Slip - Microsoft Dynamics]]></Name>
+          </Object>
+          <Object>
+            <Type>SwfObject</Type>
+            <Name><![CDATA[{DF1AA864-6D25-4f2a-8620-C078B]]></Name>
+          </Object>
+        </Path>
+        <Operation>Click</Operation>
+        <Properties>
+          <Property>
+            <Name><![CDATA[swftypename]]></Name>
+            <Value><![CDATA[Microsoft.Dynamics.Framework.UI.WinForms.Controls.NavigationPane]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[swfname]]></Name>
+            <Value><![CDATA[{DF1AA864-6D25-4f2a-8620-C078B7B4CA17}]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>bb787a98a53a41c9a614391d4d0f5fac</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <DeviceInfo />
+  </Data>
+</ReportNode>
+<ReportNode type="Step">
+<Data>
+    <Name>Tree.Click</Name>
+    <Description>72, 126</Description>
+    <StartTime>2023-01-10 15:49:00</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>SwfWindow</Type>
+            <Name><![CDATA[PR Slip - Microsoft Dynamics]]></Name>
+          </Object>
+          <Object>
+            <Type>SwfObject</Type>
+            <Name><![CDATA[Tree]]></Name>
+          </Object>
+        </Path>
+        <Operation>Click</Operation>
+        <OperationData><![CDATA[72, 126]]></OperationData>
+        <Properties>
+          <Property>
+            <Name><![CDATA[swfname]]></Name>
+            <Value><![CDATA[Tree]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>bb787a98a53a41c9a614391d4d0f5fac</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <DeviceInfo />
+  </Data>
+</ReportNode>
+<ReportNode type="Step">
+<Data>
+    <Name>Tree.Click</Name>
+    <Description>83, 149</Description>
+    <StartTime>2023-01-10 15:49:02</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>SwfWindow</Type>
+            <Name><![CDATA[PR Slip - Microsoft Dynamics]]></Name>
+          </Object>
+          <Object>
+            <Type>SwfObject</Type>
+            <Name><![CDATA[Tree]]></Name>
+          </Object>
+        </Path>
+        <Operation>Click</Operation>
+        <OperationData><![CDATA[83, 149]]></OperationData>
+        <Properties>
+          <Property>
+            <Name><![CDATA[swfname]]></Name>
+            <Value><![CDATA[Tree]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>bb787a98a53a41c9a614391d4d0f5fac</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <DeviceInfo />
+  </Data>
+</ReportNode>
+<ReportNode type="Step">
+<Data>
+    <Name>Purchase Requisition.Click</Name>
+    <Description>75, 15</Description>
+    <StartTime>2023-01-10 15:49:03</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>SwfWindow</Type>
+            <Name><![CDATA[PR Slip - Microsoft Dynamics]]></Name>
+          </Object>
+          <Object>
+            <Type>SwfLabel</Type>
+            <Name><![CDATA[Purchase Requisition]]></Name>
+          </Object>
+        </Path>
+        <Operation>Click</Operation>
+        <OperationData><![CDATA[75, 15]]></OperationData>
+        <Properties>
+          <Property>
+            <Name><![CDATA[swfname]]></Name>
+            <Value><![CDATA[9e0db1c7-0a28-424b-b4bb-f5797a8ef05a]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>f51581a8edf644548556fd59df7ab517</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <DeviceInfo />
+  </Data>
+</ReportNode>
+<ReportNode type="Context">
+<ReportNode type="Context">
+<ReportNode type="Step">
+<Data>
+    <Name>Refresh.Click</Name>
+    <Description />
+    <StartTime>2023-01-10 15:49:06</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>SwfWindow</Type>
+            <Name><![CDATA[PR Slip - Microsoft Dynamics]]></Name>
+          </Object>
+          <Object>
+            <Type>SwfObject</Type>
+            <Name><![CDATA[{FB8CCCF3-54AC-4d77-9AD8-136CE]]></Name>
+          </Object>
+          <Object>
+            <Type>WpfWindow</Type>
+            <Name><![CDATA[WpfWindow]]></Name>
+          </Object>
+          <Object>
+            <Type>WpfButton</Type>
+            <Name><![CDATA[Refresh]]></Name>
+          </Object>
+        </Path>
+        <Operation>Click</Operation>
+        <Properties>
+          <Property>
+            <Name><![CDATA[text]]></Name>
+            <Value><![CDATA[Refresh]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[devname]]></Name>
+            <Value><![CDATA[{d7eff514-cb9b-474c-a29d-0a821fa7555c}]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>2cbed3a3ec1740929abf1cc50ba3b3f8</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <DeviceInfo />
+  </Data>
+</ReportNode>
+<ReportNode type="Step">
+<Data>
+    <Name>New.Click</Name>
+    <Description />
+    <StartTime>2023-01-10 15:49:09</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>SwfWindow</Type>
+            <Name><![CDATA[PR Slip - Microsoft Dynamics]]></Name>
+          </Object>
+          <Object>
+            <Type>SwfObject</Type>
+            <Name><![CDATA[{FB8CCCF3-54AC-4d77-9AD8-136CE]]></Name>
+          </Object>
+          <Object>
+            <Type>WpfWindow</Type>
+            <Name><![CDATA[WpfWindow]]></Name>
+          </Object>
+          <Object>
+            <Type>WpfButton</Type>
+            <Name><![CDATA[New]]></Name>
+          </Object>
+        </Path>
+        <Operation>Click</Operation>
+        <Properties>
+          <Property>
+            <Name><![CDATA[text]]></Name>
+            <Value><![CDATA[New]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[devname]]></Name>
+            <Value><![CDATA[{e00eecb1-ab9d-4d87-b763-6dd25509e067}]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>2cbed3a3ec1740929abf1cc50ba3b3f8</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <DeviceInfo />
+  </Data>
+</ReportNode>
+<Data>
+    <Name>WpfWindow</Name>
+    <Description>WpfWindow</Description>
+    <StartTime>2023-01-10 15:49:06</StartTime>
+    <Duration>3</Duration>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>SwfWindow</Type>
+            <Name><![CDATA[PR Slip - Microsoft Dynamics]]></Name>
+          </Object>
+          <Object>
+            <Type>SwfObject</Type>
+            <Name><![CDATA[{FB8CCCF3-54AC-4d77-9AD8-136CE]]></Name>
+          </Object>
+          <Object>
+            <Type>WpfWindow</Type>
+            <Name><![CDATA[WpfWindow]]></Name>
+          </Object>
+        </Path>
+        <OperationData><![CDATA[WpfWindow]]></OperationData>
+        <Properties>
+          <Property>
+            <Name><![CDATA[wpftypename]]></Name>
+            <Value><![CDATA[window]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[regexpwndtitle]]></Name>
+            <Value><![CDATA[]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[devname]]></Name>
+            <Value><![CDATA[]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>7c7e4e090971497596acdeeabfd1cc7a</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<Data>
+    <Name>{FB8CCCF3-54AC-4d77-9AD8-136CE</Name>
+    <Description>SwfObject</Description>
+    <StartTime>2023-01-10 15:49:06</StartTime>
+    <Duration>3</Duration>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>SwfWindow</Type>
+            <Name><![CDATA[PR Slip - Microsoft Dynamics]]></Name>
+          </Object>
+          <Object>
+            <Type>SwfObject</Type>
+            <Name><![CDATA[{FB8CCCF3-54AC-4d77-9AD8-136CE]]></Name>
+          </Object>
+        </Path>
+        <OperationData><![CDATA[SwfObject]]></OperationData>
+        <Properties>
+          <Property>
+            <Name><![CDATA[swfname]]></Name>
+            <Value><![CDATA[{FB8CCCF3-54AC-4d77-9AD8-136CEC25583A}]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>bb787a98a53a41c9a614391d4d0f5fac</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<Data>
+    <Name>PR Slip - Microsoft Dynamics</Name>
+    <Description>SwfWindow</Description>
+    <StartTime>2023-01-10 15:48:59</StartTime>
+    <Duration>10</Duration>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>SwfWindow</Type>
+            <Name><![CDATA[PR Slip - Microsoft Dynamics]]></Name>
+          </Object>
+        </Path>
+        <OperationData><![CDATA[SwfWindow]]></OperationData>
+        <Properties>
+          <Property>
+            <Name><![CDATA[swfname]]></Name>
+            <Value><![CDATA[{91115A6C-BE32-4f71-8AA5-5979F9364B54}]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[regexpwndtitle]]></Name>
+            <Value><![CDATA[connected to Dynamics 365 Business Central]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[is owned window]]></Name>
+            <Value><![CDATA[False]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[is child window]]></Name>
+            <Value><![CDATA[False]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>dad8dcf7123b416a833f9d3d257a7d56</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="Context">
+<ReportNode type="Step">
+<Data>
+    <Name>{0000C35B-0000-0002-0008-00008.Click</Name>
+    <Description />
+    <StartTime>2023-01-10 15:49:09</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>SwfWindow</Type>
+            <Name><![CDATA[New - Req. Header]]></Name>
+          </Object>
+          <Object>
+            <Type>SwfButton</Type>
+            <Name><![CDATA[{0000C35B-0000-0002-0008-00008]]></Name>
+          </Object>
+        </Path>
+        <Operation>Click</Operation>
+        <Properties>
+          <Property>
+            <Name><![CDATA[swftypename]]></Name>
+            <Value><![CDATA[Microsoft.Dynamics.Framework.UI.WinForms.Controls.ImageButton]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[swfname]]></Name>
+            <Value><![CDATA[{0000C35B-0000-0002-0008-0000836BD2D2}]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>c190dfba4b28405c897ad24ea976ba32</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <DeviceInfo />
+  </Data>
+</ReportNode>
+<ReportNode type="Context">
+<ReportNode type="Context">
+<ReportNode type="Context">
+<ReportNode type="Step">
+<Data>
+    <Name>Refresh.Click</Name>
+    <Description />
+    <StartTime>2023-01-10 15:49:12</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>SwfWindow</Type>
+            <Name><![CDATA[New - Req. Header]]></Name>
+          </Object>
+          <Object>
+            <Type>SwfWindow</Type>
+            <Name><![CDATA[No. Series List]]></Name>
+          </Object>
+          <Object>
+            <Type>SwfObject</Type>
+            <Name><![CDATA[{FB8CCCF3-54AC-4d77-9AD8-136CE]]></Name>
+          </Object>
+          <Object>
+            <Type>WpfWindow</Type>
+            <Name><![CDATA[WpfWindow]]></Name>
+          </Object>
+          <Object>
+            <Type>WpfButton</Type>
+            <Name><![CDATA[Refresh]]></Name>
+          </Object>
+        </Path>
+        <Operation>Click</Operation>
+        <Properties>
+          <Property>
+            <Name><![CDATA[text]]></Name>
+            <Value><![CDATA[Refresh]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[devname]]></Name>
+            <Value><![CDATA[{d7eff514-cb9b-474c-a29d-0a821fa7555c}]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>2cbed3a3ec1740929abf1cc50ba3b3f8</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <DeviceInfo />
+  </Data>
+</ReportNode>
+<Data>
+    <Name>WpfWindow</Name>
+    <Description>WpfWindow</Description>
+    <StartTime>2023-01-10 15:49:12</StartTime>
+    <Duration>1</Duration>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>SwfWindow</Type>
+            <Name><![CDATA[New - Req. Header]]></Name>
+          </Object>
+          <Object>
+            <Type>SwfWindow</Type>
+            <Name><![CDATA[No. Series List]]></Name>
+          </Object>
+          <Object>
+            <Type>SwfObject</Type>
+            <Name><![CDATA[{FB8CCCF3-54AC-4d77-9AD8-136CE]]></Name>
+          </Object>
+          <Object>
+            <Type>WpfWindow</Type>
+            <Name><![CDATA[WpfWindow]]></Name>
+          </Object>
+        </Path>
+        <OperationData><![CDATA[WpfWindow]]></OperationData>
+        <Properties>
+          <Property>
+            <Name><![CDATA[wpftypename]]></Name>
+            <Value><![CDATA[window]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[regexpwndtitle]]></Name>
+            <Value><![CDATA[]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[devname]]></Name>
+            <Value><![CDATA[]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>7c7e4e090971497596acdeeabfd1cc7a</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<Data>
+    <Name>{FB8CCCF3-54AC-4d77-9AD8-136CE</Name>
+    <Description>SwfObject</Description>
+    <StartTime>2023-01-10 15:49:12</StartTime>
+    <Duration>1</Duration>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>SwfWindow</Type>
+            <Name><![CDATA[New - Req. Header]]></Name>
+          </Object>
+          <Object>
+            <Type>SwfWindow</Type>
+            <Name><![CDATA[No. Series List]]></Name>
+          </Object>
+          <Object>
+            <Type>SwfObject</Type>
+            <Name><![CDATA[{FB8CCCF3-54AC-4d77-9AD8-136CE]]></Name>
+          </Object>
+        </Path>
+        <OperationData><![CDATA[SwfObject]]></OperationData>
+        <Properties>
+          <Property>
+            <Name><![CDATA[swfname]]></Name>
+            <Value><![CDATA[{FB8CCCF3-54AC-4d77-9AD8-136CEC25583A}]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>bb787a98a53a41c9a614391d4d0f5fac</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="Step">
+<Data>
+    <Name>_DataGrid.SelectCell</Name>
+    <Description>14, "Code"</Description>
+    <StartTime>2023-01-10 15:49:13</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>SwfWindow</Type>
+            <Name><![CDATA[New - Req. Header]]></Name>
+          </Object>
+          <Object>
+            <Type>SwfWindow</Type>
+            <Name><![CDATA[No. Series List]]></Name>
+          </Object>
+          <Object>
+            <Type>SwfTable</Type>
+            <Name><![CDATA[_DataGrid]]></Name>
+          </Object>
+        </Path>
+        <Operation>SelectCell</Operation>
+        <OperationData><![CDATA[14, "Code"]]></OperationData>
+        <Properties>
+          <Property>
+            <Name><![CDATA[swfname]]></Name>
+            <Value><![CDATA[_DataGrid]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>6d998039a9864113b4c9acbb319d7b4e</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <DeviceInfo />
+  </Data>
+</ReportNode>
+<ReportNode type="Step">
+<Data>
+    <Name>OK.Click</Name>
+    <Description />
+    <StartTime>2023-01-10 15:49:13</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>SwfWindow</Type>
+            <Name><![CDATA[New - Req. Header]]></Name>
+          </Object>
+          <Object>
+            <Type>SwfWindow</Type>
+            <Name><![CDATA[No. Series List]]></Name>
+          </Object>
+          <Object>
+            <Type>SwfButton</Type>
+            <Name><![CDATA[OK]]></Name>
+          </Object>
+        </Path>
+        <Operation>Click</Operation>
+        <Properties>
+          <Property>
+            <Name><![CDATA[swfname]]></Name>
+            <Value><![CDATA[{40C9E2E9-D1AA-4c3c-A5DF-F63ECA67C864}]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>c190dfba4b28405c897ad24ea976ba32</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <DeviceInfo />
+  </Data>
+</ReportNode>
+<Data>
+    <Name>No. Series List</Name>
+    <Description>SwfWindow</Description>
+    <StartTime>2023-01-10 15:49:12</StartTime>
+    <Duration>3</Duration>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>SwfWindow</Type>
+            <Name><![CDATA[New - Req. Header]]></Name>
+          </Object>
+          <Object>
+            <Type>SwfWindow</Type>
+            <Name><![CDATA[No. Series List]]></Name>
+          </Object>
+        </Path>
+        <OperationData><![CDATA[SwfWindow]]></OperationData>
+        <Properties>
+          <Property>
+            <Name><![CDATA[swfname]]></Name>
+            <Value><![CDATA[{0000023B-0000-0000-0108-0000836BD2D2}]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[regexpwndtitle]]></Name>
+            <Value><![CDATA[No. Series List]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[is owned window]]></Name>
+            <Value><![CDATA[True]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[is child window]]></Name>
+            <Value><![CDATA[False]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>dad8dcf7123b416a833f9d3d257a7d56</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="Step">
+<Data>
+    <Name>{0000C35B-0000-0004-0008-00008.Set</Name>
+    <Description>"12-22-2022"</Description>
+    <StartTime>2023-01-10 15:49:15</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>SwfWindow</Type>
+            <Name><![CDATA[New - Req. Header]]></Name>
+          </Object>
+          <Object>
+            <Type>SwfEdit</Type>
+            <Name><![CDATA[{0000C35B-0000-0004-0008-00008]]></Name>
+          </Object>
+        </Path>
+        <Operation>Set</Operation>
+        <OperationData><![CDATA["12-22-2022"]]></OperationData>
+        <Properties>
+          <Property>
+            <Name><![CDATA[swftypename]]></Name>
+            <Value><![CDATA[Microsoft.Dynamics.Framework.UI.WinForms.Controls.EllipsisTextBox]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[swfname]]></Name>
+            <Value><![CDATA[{0000C35B-0000-0004-0008-0000836BD2D2}]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>7f130a8348fe4ad9a24a5d3e7e76fb68</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <DeviceInfo />
+  </Data>
+</ReportNode>
+<ReportNode type="Step">
+<Data>
+    <Name>{0000C35B-0000-0004-0008-00008.Type</Name>
+    <Description>" micReturn "</Description>
+    <StartTime>2023-01-10 15:49:15</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>SwfWindow</Type>
+            <Name><![CDATA[New - Req. Header]]></Name>
+          </Object>
+          <Object>
+            <Type>SwfEdit</Type>
+            <Name><![CDATA[{0000C35B-0000-0004-0008-00008]]></Name>
+          </Object>
+        </Path>
+        <Operation>Type</Operation>
+        <OperationData><![CDATA[" micReturn "]]></OperationData>
+        <Properties>
+          <Property>
+            <Name><![CDATA[swftypename]]></Name>
+            <Value><![CDATA[Microsoft.Dynamics.Framework.UI.WinForms.Controls.EllipsisTextBox]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[swfname]]></Name>
+            <Value><![CDATA[{0000C35B-0000-0004-0008-0000836BD2D2}]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>7f130a8348fe4ad9a24a5d3e7e76fb68</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <DeviceInfo />
+  </Data>
+</ReportNode>
+<Data>
+    <Name>New - Req. Header</Name>
+    <Description>SwfWindow</Description>
+    <StartTime>2023-01-10 15:49:09</StartTime>
+    <Duration>7</Duration>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>SwfWindow</Type>
+            <Name><![CDATA[New - Req. Header]]></Name>
+          </Object>
+        </Path>
+        <OperationData><![CDATA[SwfWindow]]></OperationData>
+        <Properties>
+          <Property>
+            <Name><![CDATA[swfname]]></Name>
+            <Value><![CDATA[{0000C35B-0000-0000-0108-0000836BD2D2}]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[regexpwndtitle]]></Name>
+            <Value><![CDATA[Req. Header]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[is owned window]]></Name>
+            <Value><![CDATA[False]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[is child window]]></Name>
+            <Value><![CDATA[False]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>dad8dcf7123b416a833f9d3d257a7d56</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="Context">
+<ReportNode type="Step">
+<Data>
+    <Name>{0000C35B-0000-0016-0008-00008.Set</Name>
+    <Description>" 2023 and above"</Description>
+    <StartTime>2023-01-10 15:49:16</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>SwfWindow</Type>
+            <Name><![CDATA[New - Req. Header - ITPR-00406]]></Name>
+          </Object>
+          <Object>
+            <Type>SwfEdit</Type>
+            <Name><![CDATA[{0000C35B-0000-0016-0008-00008]]></Name>
+          </Object>
+        </Path>
+        <Operation>Set</Operation>
+        <OperationData><![CDATA[" 2023 and above"]]></OperationData>
+        <Properties>
+          <Property>
+            <Name><![CDATA[swftypename]]></Name>
+            <Value><![CDATA[Microsoft.Dynamics.Framework.UI.WinForms.Controls.EllipsisTextBox]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[swfname]]></Name>
+            <Value><![CDATA[{0000C35B-0000-0016-0008-0000836BD2D2}]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>7f130a8348fe4ad9a24a5d3e7e76fb68</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <DeviceInfo />
+  </Data>
+</ReportNode>
+<ReportNode type="Step">
+<Data>
+    <Name>{0000C35B-0000-0006-0008-00008.SetSelection</Name>
+    <Description>0, 1</Description>
+    <StartTime>2023-01-10 15:49:17</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>SwfWindow</Type>
+            <Name><![CDATA[New - Req. Header - ITPR-00406]]></Name>
+          </Object>
+          <Object>
+            <Type>SwfEdit</Type>
+            <Name><![CDATA[{0000C35B-0000-0006-0008-00008]]></Name>
+          </Object>
+        </Path>
+        <Operation>SetSelection</Operation>
+        <OperationData><![CDATA[0, 1]]></OperationData>
+        <Properties>
+          <Property>
+            <Name><![CDATA[swftypename]]></Name>
+            <Value><![CDATA[Microsoft.Dynamics.Framework.UI.WinForms.Controls.EllipsisTextBox]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[swfname]]></Name>
+            <Value><![CDATA[{0000C35B-0000-0006-0008-0000836BD2D2}]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>7f130a8348fe4ad9a24a5d3e7e76fb68</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <DeviceInfo />
+  </Data>
+</ReportNode>
+<ReportNode type="Step">
+<Data>
+    <Name>{0000C35B-0000-0006-0008-00008.Set</Name>
+    <Description>"CAPEX"</Description>
+    <StartTime>2023-01-10 15:49:17</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>SwfWindow</Type>
+            <Name><![CDATA[New - Req. Header - ITPR-00406]]></Name>
+          </Object>
+          <Object>
+            <Type>SwfEdit</Type>
+            <Name><![CDATA[{0000C35B-0000-0006-0008-00008]]></Name>
+          </Object>
+        </Path>
+        <Operation>Set</Operation>
+        <OperationData><![CDATA["CAPEX"]]></OperationData>
+        <Properties>
+          <Property>
+            <Name><![CDATA[swftypename]]></Name>
+            <Value><![CDATA[Microsoft.Dynamics.Framework.UI.WinForms.Controls.EllipsisTextBox]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[swfname]]></Name>
+            <Value><![CDATA[{0000C35B-0000-0006-0008-0000836BD2D2}]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>7f130a8348fe4ad9a24a5d3e7e76fb68</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <DeviceInfo />
+  </Data>
+</ReportNode>
+<ReportNode type="Step">
+<Data>
+    <Name>{0000C35B-0000-0006-0008-00008.Type</Name>
+    <Description>" micReturn "</Description>
+    <StartTime>2023-01-10 15:49:17</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>SwfWindow</Type>
+            <Name><![CDATA[New - Req. Header - ITPR-00406]]></Name>
+          </Object>
+          <Object>
+            <Type>SwfEdit</Type>
+            <Name><![CDATA[{0000C35B-0000-0006-0008-00008]]></Name>
+          </Object>
+        </Path>
+        <Operation>Type</Operation>
+        <OperationData><![CDATA[" micReturn "]]></OperationData>
+        <Properties>
+          <Property>
+            <Name><![CDATA[swftypename]]></Name>
+            <Value><![CDATA[Microsoft.Dynamics.Framework.UI.WinForms.Controls.EllipsisTextBox]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[swfname]]></Name>
+            <Value><![CDATA[{0000C35B-0000-0006-0008-0000836BD2D2}]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>7f130a8348fe4ad9a24a5d3e7e76fb68</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <DeviceInfo />
+  </Data>
+</ReportNode>
+<ReportNode type="Step">
+<Data>
+    <Name>{0000C35B-0000-0016-0008-00008.Click</Name>
+    <Description />
+    <StartTime>2023-01-10 15:49:18</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>SwfWindow</Type>
+            <Name><![CDATA[New - Req. Header - ITPR-00406]]></Name>
+          </Object>
+          <Object>
+            <Type>SwfEdit</Type>
+            <Name><![CDATA[{0000C35B-0000-0016-0008-00008]]></Name>
+          </Object>
+        </Path>
+        <Operation>Click</Operation>
+        <Properties>
+          <Property>
+            <Name><![CDATA[swftypename]]></Name>
+            <Value><![CDATA[Microsoft.Dynamics.Framework.UI.WinForms.Controls.EllipsisTextBox]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[swfname]]></Name>
+            <Value><![CDATA[{0000C35B-0000-0016-0008-0000836BD2D2}]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>7f130a8348fe4ad9a24a5d3e7e76fb68</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <DeviceInfo />
+  </Data>
+</ReportNode>
+<ReportNode type="Step">
+<Data>
+    <Name>{0000C35B-0000-0005-0008-00008.Set</Name>
+    <Description>"221"</Description>
+    <StartTime>2023-01-10 15:49:20</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>SwfWindow</Type>
+            <Name><![CDATA[New - Req. Header - ITPR-00406]]></Name>
+          </Object>
+          <Object>
+            <Type>SwfEdit</Type>
+            <Name><![CDATA[{0000C35B-0000-0005-0008-00008]]></Name>
+          </Object>
+        </Path>
+        <Operation>Set</Operation>
+        <OperationData><![CDATA["221"]]></OperationData>
+        <Properties>
+          <Property>
+            <Name><![CDATA[swftypename]]></Name>
+            <Value><![CDATA[Microsoft.Dynamics.Framework.UI.WinForms.Controls.EllipsisTextBox]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[swfname]]></Name>
+            <Value><![CDATA[{0000C35B-0000-0005-0008-0000836BD2D2}]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>7f130a8348fe4ad9a24a5d3e7e76fb68</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <DeviceInfo />
+  </Data>
+</ReportNode>
+<ReportNode type="Step">
+<Data>
+    <Name>Stop Run</Name>
+    <Description>Run stopped by user.</Description>
+    <StartTime>2023-01-10 15:49:25</StartTime>
+    <Result>Information</Result>
+    <Extension>
+      <IconKey>08fe88aaeebf4dfe948a08aa4bfce8f1</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<Data>
+    <Name>New - Req. Header - ITPR-00406</Name>
+    <Description>SwfWindow</Description>
+    <StartTime>2023-01-10 15:49:16</StartTime>
+    <Duration>9</Duration>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>SwfWindow</Type>
+            <Name><![CDATA[New - Req. Header - ITPR-00406]]></Name>
+          </Object>
+        </Path>
+        <OperationData><![CDATA[SwfWindow]]></OperationData>
+        <Properties>
+          <Property>
+            <Name><![CDATA[swfname]]></Name>
+            <Value><![CDATA[{0000C35B-0000-0000-0108-0000836BD2D2}]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[regexpwndtitle]]></Name>
+            <Value><![CDATA[New - Req\. Header - ITPR-00\d\d\d]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[is owned window]]></Name>
+            <Value><![CDATA[False]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[is child window]]></Name>
+            <Value><![CDATA[False]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>dad8dcf7123b416a833f9d3d257a7d56</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<Data>
+    <Name>Action1</Name>
+    <Description />
+    <StartTime>2023-01-10 15:48:59</StartTime>
+    <Duration>26</Duration>
+    <Result>Done</Result>
+    <InputParameters />
+    <Extension>
+      <IconKey>f5846965b5d341559a235b53fec6f247</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="Step">
+<Data>
+    <Name>Stop Run</Name>
+    <Description>Run stopped by user.</Description>
+    <StartTime>2023-01-10 15:49:25</StartTime>
+    <Result>Information</Result>
+    <Extension>
+      <IconKey>b14285ebfa91417587e151d0716f3eff</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<Data>
+    <Name>EXCEL_SUCCESS_EXECUTION</Name>
+    <ToolName>Micro Focus UFT One</ToolName>
+    <ToolVersion>2021</ToolVersion>
+    <ToolVersionStringLiteral>2021</ToolVersionStringLiteral>
+    <Description />
+    <StartTime>2023-01-10 15:48:55</StartTime>
+    <Duration>30</Duration>
+    <Result>Done</Result>
+    <InputParameters />
+    <Extension>
+      <IconKey>d835730ecc9b4aafa58a0ed78d568c75</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Environment>
+      <Timezone>+08:00:00</Timezone>
+      <Locale>English (United States)</Locale>
+      <User>SMCDACON\ccdesphy</User>
+      <CpuInfo>Intel(R) Xeon(R) Gold 6248 CPU @ 2.50GHz</CpuInfo>
+      <NumberOfCores>8</NumberOfCores>
+      <TotalMemory>16384</TotalMemory>
+      <HostName>smcdacon.com\CHROMEL</HostName>
+      <OSInfo>Windows Server 2016 (x64)</OSInfo>
+    </Environment>
+    <TestedApplications />
+    <Links>
+      <Link type="DataTable" reference="Default.xlsx" displayname="Default Data Table" />
+    </Links>
+  </Data>
+</ReportNode>
+<GeneralInfo>
+    <ResultName>Res78</ResultName>
+    <RunStartTime>2023-01-10 15:48:55</RunStartTime>
+    <Timezone>+08:00:00</Timezone>
+    <OrchestrationToolName>Micro Focus UFT One</OrchestrationToolName>
+    <OrchestrationToolVersion>2021</OrchestrationToolVersion>
+    <OrchestrationToolVersionStringLiteral>2021</OrchestrationToolVersionStringLiteral>
+  </GeneralInfo>
+</Results>

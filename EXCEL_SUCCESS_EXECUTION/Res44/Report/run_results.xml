@@ -1,0 +1,253 @@
+<?xml version="1.0"?>
+<Results version="1.0">
+<ReportNode type="testrun">
+<ReportNode type="Iteration">
+<ReportNode type="Action">
+<ReportNode type="Context">
+<ReportNode type="Step">
+<Data>
+    <Name>{DF1AA864-6D25-4f2a-8620-C078B.Click</Name>
+    <Description>112, 798</Description>
+    <StartTime>2023-01-10 13:56:40</StartTime>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>SwfWindow</Type>
+            <Name><![CDATA[PR Slip - Microsoft Dynamics]]></Name>
+          </Object>
+          <Object>
+            <Type>SwfObject</Type>
+            <Name><![CDATA[{DF1AA864-6D25-4f2a-8620-C078B]]></Name>
+          </Object>
+        </Path>
+        <Operation>Click</Operation>
+        <OperationData><![CDATA[112, 798]]></OperationData>
+        <Properties>
+          <Property>
+            <Name><![CDATA[swftypename]]></Name>
+            <Value><![CDATA[Microsoft.Dynamics.Framework.UI.WinForms.Controls.NavigationPane]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[swfname]]></Name>
+            <Value><![CDATA[{DF1AA864-6D25-4f2a-8620-C078B7B4CA17}]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>360dbd866e754df495e548bdb71735cc</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <DeviceInfo />
+  </Data>
+</ReportNode>
+<Data>
+    <Name>PR Slip - Microsoft Dynamics</Name>
+    <Description>SwfWindow</Description>
+    <StartTime>2023-01-10 13:56:40</StartTime>
+    <Duration>0</Duration>
+    <Result>Done</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>SwfWindow</Type>
+            <Name><![CDATA[PR Slip - Microsoft Dynamics]]></Name>
+          </Object>
+        </Path>
+        <OperationData><![CDATA[SwfWindow]]></OperationData>
+        <Properties>
+          <Property>
+            <Name><![CDATA[swfname]]></Name>
+            <Value><![CDATA[{91115A6C-BE32-4f71-8AA5-5979F9364B54}]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[regexpwndtitle]]></Name>
+            <Value><![CDATA[connected to Dynamics 365 Business Central]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[is owned window]]></Name>
+            <Value><![CDATA[False]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[is child window]]></Name>
+            <Value><![CDATA[False]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>120b1c6d489a41178250c8b73e063694</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<ReportNode type="Context">
+<ReportNode type="Step">
+<Data>
+    <Name>{DF1AA864-6D25-4f2a-8620-C078B</Name>
+    <ErrorText>The statement contains one or more invalid function arguments.</ErrorText>
+    <Description>The&amp;nbsp;statement&amp;nbsp;contains&amp;nbsp;one&amp;nbsp;or&amp;nbsp;more&amp;nbsp;invalid&amp;nbsp;function&amp;nbsp;arguments.&lt;br/&gt;&lt;br/&gt;Object's physical description:&lt;br&gt;swftypename = Microsoft.Dynamics.Framework.UI.WinForms.Controls.NavigationPane&lt;br&gt;swfname = {DF1AA864-6D25-4f2a-8620-C078B7B4CA17}&lt;br&gt;</Description>
+    <StartTime>2023-01-10 13:56:40</StartTime>
+    <Result>Failed</Result>
+    <Extension>
+      <StackTrace>
+        <StackFrame>
+          <ModuleName><![CDATA[Action1]]></ModuleName>
+          <FileName><![CDATA[Action1]]></FileName>
+          <Language><![CDATA[VBScript - script block]]></Language>
+          <FunctionName><![CDATA[VBScript global code]]></FunctionName>
+          <Scripts><![CDATA[SwfWindow("PR Slip - Microsoft Dynamics").SwfObject("{DF1AA864-6D25-4f2a-8620-C078B").Click 112,798]]></Scripts>
+          <LineNo><![CDATA[5]]></LineNo>
+        </StackFrame>
+      </StackTrace>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>SwfWindow</Type>
+            <Name><![CDATA[PR Slip - Microsoft Dynamics]]></Name>
+          </Object>
+          <Object>
+            <Type>SwfObject</Type>
+            <Name><![CDATA[{DF1AA864-6D25-4f2a-8620-C078B]]></Name>
+          </Object>
+        </Path>
+        <OperationData><![CDATA[The&nbsp;statement&nbsp;contains&nbsp;one&nbsp;or&nbsp;more&nbsp;invalid&nbsp;function&nbsp;arguments.]]></OperationData>
+        <Properties>
+          <Property>
+            <Name><![CDATA[swftypename]]></Name>
+            <Value><![CDATA[Microsoft.Dynamics.Framework.UI.WinForms.Controls.NavigationPane]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[swfname]]></Name>
+            <Value><![CDATA[{DF1AA864-6D25-4f2a-8620-C078B7B4CA17}]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>360dbd866e754df495e548bdb71735cc</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+      <NodeType>Run Error</NodeType>
+    </Extension>
+    <Snapshot reference="Resources\Snapshots\a95fcd96-b817-4d63-957b-b11ad4399a95.jpeg" highlight="0,0,1920,1031" />
+    <DeviceInfo />
+  </Data>
+</ReportNode>
+<ReportNode type="Step">
+<Data>
+    <Name>Stop Run</Name>
+    <Description>Run stopped by user.</Description>
+    <StartTime>2023-01-10 13:59:12</StartTime>
+    <Result>Information</Result>
+    <Extension>
+      <IconKey>ca532fcff9d049ee975f04ea4cf7a3ff</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<Data>
+    <Name>PR Slip - Microsoft Dynamics</Name>
+    <Description>SwfWindow</Description>
+    <StartTime>2023-01-10 13:56:40</StartTime>
+    <Duration>152</Duration>
+    <Result>Failed</Result>
+    <Extension>
+      <TestObject>
+        <Repository>Local</Repository>
+        <Path>
+          <Object>
+            <Type>SwfWindow</Type>
+            <Name><![CDATA[PR Slip - Microsoft Dynamics]]></Name>
+          </Object>
+        </Path>
+        <OperationData><![CDATA[SwfWindow]]></OperationData>
+        <Properties>
+          <Property>
+            <Name><![CDATA[swfname]]></Name>
+            <Value><![CDATA[{91115A6C-BE32-4f71-8AA5-5979F9364B54}]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[regexpwndtitle]]></Name>
+            <Value><![CDATA[connected to Dynamics 365 Business Central]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[is owned window]]></Name>
+            <Value><![CDATA[False]]></Value>
+          </Property>
+          <Property>
+            <Name><![CDATA[is child window]]></Name>
+            <Value><![CDATA[False]]></Value>
+          </Property>
+        </Properties>
+      </TestObject>
+      <IconKey>120b1c6d489a41178250c8b73e063694</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<Data>
+    <Name>Action1</Name>
+    <Description />
+    <StartTime>2023-01-10 13:56:40</StartTime>
+    <Duration>152</Duration>
+    <Result>Failed</Result>
+    <InputParameters />
+    <Extension>
+      <IconKey>345f4e6be5f64842b745f5b96728bb01</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+  </Data>
+</ReportNode>
+<Data>
+    <Name>Action0</Name>
+    <Description />
+    <StartTime>2023-01-10 13:56:40</StartTime>
+    <Duration>152</Duration>
+    <Result>Failed</Result>
+    <Extension>
+      <IconKey>8eb39f39735147d5a79552793ec55e94</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Index>1</Index>
+    <TestedApplications />
+  </Data>
+</ReportNode>
+<Data>
+    <Name>EXCEL_SUCCESS_EXECUTION</Name>
+    <ToolName>Micro Focus UFT One</ToolName>
+    <ToolVersion>2021</ToolVersion>
+    <ToolVersionStringLiteral>2021</ToolVersionStringLiteral>
+    <Description />
+    <StartTime>2023-01-10 13:56:37</StartTime>
+    <Duration>155</Duration>
+    <Result>Failed</Result>
+    <InputParameters />
+    <Extension>
+      <IconKey>04cf64b0f56447cda99686c3fde8cd3d</IconKey>
+      <IsPlainTextNodeName>True</IsPlainTextNodeName>
+    </Extension>
+    <Environment>
+      <Timezone>+08:00:00</Timezone>
+      <Locale>English (United States)</Locale>
+      <User>SMCDACON\ccdesphy</User>
+      <CpuInfo>Intel(R) Xeon(R) Gold 6248 CPU @ 2.50GHz</CpuInfo>
+      <NumberOfCores>8</NumberOfCores>
+      <TotalMemory>16384</TotalMemory>
+      <HostName>smcdacon.com\CHROMEL</HostName>
+      <OSInfo>Windows Server 2016 (x64)</OSInfo>
+    </Environment>
+    <TestedApplications />
+    <Links>
+      <Link type="DataTable" reference="Default.xlsx" displayname="Default Data Table" />
+    </Links>
+  </Data>
+</ReportNode>
+<GeneralInfo>
+    <ResultName>Res44</ResultName>
+    <RunStartTime>2023-01-10 13:56:37</RunStartTime>
+    <Timezone>+08:00:00</Timezone>
+    <OrchestrationToolName>Micro Focus UFT One</OrchestrationToolName>
+    <OrchestrationToolVersion>2021</OrchestrationToolVersion>
+    <OrchestrationToolVersionStringLiteral>2021</OrchestrationToolVersionStringLiteral>
+  </GeneralInfo>
+</Results>
